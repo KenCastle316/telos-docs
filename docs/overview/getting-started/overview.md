@@ -27,7 +27,7 @@ The Telos Network is a real-world ready blockchain which, through the culminatio
 - **Security:** DPOS consensus mechanism provides strong security protection against a 51% attack. Telos requires 2/3s + 1 of the validators to sign blocks. 
 - **Fixed Gas Rate:** Telos Gas Fees average in at .01, gas fees don't fluctuate with network volumes. Costs are more predictable and affordable for users and infrastructure. 
 - **Sustainable:** Low carbon footprint, currently only uses 0.000001 kWh to execute one transaction.
-- **Smart Contract Support:** Developers have the option to build smart contracts in multiple languages such as Solidity, C++, Go, and Rust making it one of the most flexible blockchains for builders. NOTE: Additional langauge support coming.
+- **Smart Contract Support:** Developers have the option to build smart contracts in multiple languages such as Solidity, C++, Go, and Rust making it one of the most versatile blockchains for builders. NOTE: Additional langauge support coming.
 
 
 ## Telos Native
