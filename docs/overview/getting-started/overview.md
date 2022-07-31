@@ -10,7 +10,7 @@ slug: /
 
 #### What is Telos? 
 
-Telos is a Layer-1 blockchain network that consistently strives to achieve new pinnacles of cutting-edge innovation. Developers building on Telos can access a suite of tools and onboarding support to develop smart contracts with robust governance features and a vibrant community. Telos aims to build a fairer, faster future with a community of passionate contributors and users about the future of web3. 
+Telos is a Layer-1 blockchain network that consistently strives to achieve new pinnacles of cutting-edge innovation. Developers building on Telos can access a suite of tools and onboarding support to develop smart contracts with robust governance features and a vibrant community. Telos aims to build a fairer, faster future with a community of contributors and users that are passionate about the future of web3. 
 
 ![Telos Performance Flex](/img/Telos_Infographic.png)
 
