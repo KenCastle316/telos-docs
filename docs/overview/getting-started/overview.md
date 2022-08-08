@@ -10,7 +10,7 @@ slug: /
 
 #### What is Telos? 
 
-Telos is a next-generation Delegated Proof of Stake (DPOS) Layer-1 blockchain network. It is designed to feature unsurpassed compatibility for developers and provides an extensive suite of tools and onboarding support to develop and deploy and smart contracts on the world's fastest, most scalable, and affordable Telos EVM. The network is backed by robust governance features and a vibrant community of contributors and users that are passionate about the future of Web3 
+Telos is a next-generation Delegated Proof of Stake (DPOS) Layer-1 blockchain network. It is designed to feature unsurpassed compatibility for developers and provides an extensive suite of tools and onboarding support to develop and deploy smart contracts on the world's fastest, most scalable, and affordable Telos EVM. The network is backed by robust governance features and a vibrant community of contributors and users that are passionate about the future of Web3 
 
 ![Telos Performance Flex](/img/Telos_Infographic.png)
 
