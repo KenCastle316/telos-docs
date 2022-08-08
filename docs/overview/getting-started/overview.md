@@ -10,7 +10,7 @@ slug: /
 
 #### What is Telos? 
 
-Telos is a next-generation Delegated Proof of Stake (DPOS) Layer-1 blockchain network. It is designed to feature unsurpassed compatibility for developers and provides an extensive suite of tools and onboarding support to develop and deploy and smart contracts on the world's fastest, most scalable, and affordable Telos EVM. The network is backed by robust governance features and a vibrant community of contributors and users that are passionate about the future of Web3 
+Telos is a next-generation Delegated Proof of Stake (DPOS) Layer-1 blockchain network. It is designed to feature unsurpassed compatibility for developers and provides an extensive suite of tools and onboarding support to develop and deploy smart contracts on the world's fastest, most scalable, and affordable Telos EVM. The network is backed by robust governance features and a vibrant community of contributors and users that are passionate about the future of Web3 
 
 ![Telos Performance Flex](/img/Telos_Infographic.png)
 
@@ -23,7 +23,7 @@ The Telos Network is a real-world ready blockchain which, through the culminatio
 - **Uptime:** Operational integritiy of the Telos network has maintained a 100% uptime since December 2018 without any break, forks or outages.  
 - **No Front Running:**  Telos is architected not to have a mempool and allows for transactions to be processed in a "First in First Out" basis, eliminating the ability for transactions to be front run.
 - **Transaction Finality:** .5 second block times. It takes half a second to complete a transaction.
-- **Transaction Throughput:** TELOS has successfully proven in excess of 10,000 Transactions Per Second in 2 blocks(1 second)
+- **Transaction Throughput:** TELOS has successfully proven over 10,000 Transactions Per Second in 2 blocks (1 second).
 - **Security:** DPOS consensus mechanism provides strong security protection against a 51% attack. Telos requires 2/3s + 1 of the validators to sign blocks. 
 - **Fixed Gas Rate:** Telos Gas Fees average .01 per transaction. In addition, gas fees do not fluctuate with network volumes. As a result, costs are more predictable and affordable for users and infrastructure.
 - **Sustainable:** Low carbon footprint. A typical transaction currently only consumes 0.000001 kWh to execute.
