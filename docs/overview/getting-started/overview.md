@@ -58,7 +58,7 @@ Via Telos Decide, the tokenholders all contribute to decisions around upgrading 
 Telos has made substantial improvements that address problems other Layer 1 blockchains are facing such as performance, scalability, and energy consumption. The Telos EVM is designed to combat front running
 so that transactions from large institutions or whales performing Defi transactions can't be pushed on top of retail traders in a mempool.
 
-- **Architecture:** Telos EVM is a Smart Contract built on the native EOSIO layer, the EVM RPC plays a critical role by translating the native APIs to the standard EVM RPC methods so all EVM tools and wallets are compatible.
+- **Architecture:** Telos EVM is a Smart Contract built on the native EOSIO layer. The EVM RPC plays a critical role by translating the native APIs to the standard EVM RPC methods so all EVM tools and wallets are compatible.
 - **Solidity & Viper:** Telos EVM processes the same code as Ethereum's EVM and other EVMS, no modifications are needed. 
 - **RPC Specification:** Every Telos client implements a JSON-RPC specification that is identical to Ethereum's making it easy to read blockchain data and/or send transactions to the network. 
 - **Convenience Libraries:** Telos supports the same libraries for JSON-RPC API such as ethers.js & web3.js
